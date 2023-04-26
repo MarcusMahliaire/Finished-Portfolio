@@ -59,6 +59,7 @@ export default function Experience() {
             position={[2, 0.75, 0.75]}
             rotation-y={-1.25}
             maxWidth={2}
+            letterSpacing={0.01}
           >
             Marcus Mahliaire
           </Text>
